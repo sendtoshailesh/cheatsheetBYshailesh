@@ -309,12 +309,19 @@ These cheatsheets provide a comprehensive overview of NumPy functionality, from 
 
 Citations:
 [1] https://www.reddit.com/r/Python/comments/repk8q/an_interactive_cheatsheet_for_numpy/
+
 [2] https://www.dataquest.io/blog/numpy-cheat-sheet/
+
 [3] https://shecancode.io/blog/numpy-cheat-sheet-for-python/
+
 [4] https://studyopedia.com/numpy/numpy-cheat-sheet/
+
 [5] https://web.itu.edu.tr/iguzel/files/Python_Cheat_Sheets.pdf
+
 [6] https://intellipaat.com/blog/tutorial/python-tutorial/numpy-cheat-sheet/
+
 [7] https://www.geeksforgeeks.org/numpy-cheat-sheet/
+
 [8] https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python
 
 Remember to check the official documentation for the most up-to-date and detailed information on NumPy functions and usage.
