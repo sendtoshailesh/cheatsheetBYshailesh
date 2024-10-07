@@ -1,1 +1,6 @@
 # cheatsheetBYshailesh
+
+##Python
+
+###numpy
+
