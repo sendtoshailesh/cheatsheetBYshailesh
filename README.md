@@ -1,6 +1,6 @@
 # cheatsheetBYshailesh
 
-##Python
+## Python
 
-###numpy
+### numpy
 
