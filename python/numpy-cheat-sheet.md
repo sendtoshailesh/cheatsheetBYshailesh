@@ -193,7 +193,129 @@ np.where(arr > value)
 - [DataCamp NumPy Cheat Sheet](https://www.datacamp.com/community/blog/python-numpy-cheat-sheet)
 - [NumPy Documentation](https://numpy.org/doc/stable/)
 - [Cheatography NumPy Cheat Sheet](https://cheatography.com/print/numpy-python.pdf)
+Here's a comprehensive GitHub README file in markdown format collecting various online cheatsheets for the Python NumPy library:
 
+# NumPy Cheatsheet Collection
+
+This README compiles various online cheatsheets for the NumPy library in Python, providing a quick reference for data scientists, engineers, and Python developers working with numerical computing and data analysis.
+
+## Table of Contents
+
+1. [Interactive NumPy Cheatsheet](#interactive-numpy-cheatsheet)
+2. [DataQuest NumPy Cheatsheet](#dataquest-numpy-cheatsheet)
+3. [SheCanCode NumPy Cheatsheet](#shecancode-numpy-cheatsheet)
+4. [Studyopedia NumPy Cheatsheet](#studyopedia-numpy-cheatsheet)
+5. [Python for Data Science Cheatsheet](#python-for-data-science-cheatsheet)
+6. [Intellipaat NumPy Cheatsheet](#intellipaat-numpy-cheatsheet)
+7. [GeeksforGeeks NumPy Cheatsheet](#geeksforgeeks-numpy-cheatsheet)
+8. [DataCamp NumPy Cheatsheet](#datacamp-numpy-cheatsheet)
+
+## Interactive NumPy Cheatsheet
+
+An interactive cheatsheet covering all aspects of the NumPy library, from creating arrays to array manipulation and operations[1].
+
+- **URL**: [https://speedsheet.io/s/numpy](https://speedsheet.io/s/numpy)
+- **Features**: 
+  - Interactive search functionality
+  - Covers array creation, manipulation, and operations
+  - Includes examples for each topic
+
+## DataQuest NumPy Cheatsheet
+
+A comprehensive cheatsheet covering key NumPy operations, functions, and techniques[2].
+
+- **URL**: [https://www.dataquest.io/blog/numpy-cheat-sheet/](https://www.dataquest.io/blog/numpy-cheat-sheet/)
+- **Topics Covered**:
+  - Importing/exporting data
+  - Creating arrays
+  - Array operations
+  - Math functions
+  - Array manipulation
+
+## SheCanCode NumPy Cheatsheet
+
+A detailed cheatsheet covering key operations, functions, and techniques for numerical computing in Python using NumPy[3].
+
+- **URL**: [https://shecancode.io/blog/numpy-cheat-sheet-for-python/](https://shecancode.io/blog/numpy-cheat-sheet-for-python/)
+- **Sections**:
+  - Importing NumPy
+  - Creating Arrays
+  - Array Operations
+  - Array Manipulation
+  - Indexing and Slicing
+
+## Studyopedia NumPy Cheatsheet
+
+A guide for working with NumPy, covering basics and advanced topics[4].
+
+- **URL**: [https://studyopedia.com/numpy/numpy-cheat-sheet/](https://studyopedia.com/numpy/numpy-cheat-sheet/)
+- **Key Sections**:
+  - Installation
+  - Creating NumPy Arrays
+  - Array Operations
+  - Array Shape
+  - Searching Arrays
+
+## Python for Data Science Cheatsheet
+
+A comprehensive cheatsheet covering NumPy basics for data science applications[5].
+
+- **URL**: [https://web.itu.edu.tr/iguzel/files/Python_Cheat_Sheets.pdf](https://web.itu.edu.tr/iguzel/files/Python_Cheat_Sheets.pdf)
+- **Topics**:
+  - Creating Arrays
+  - Array Operations
+  - Saving & Loading Arrays
+  - Array Inspection
+  - Sorting Arrays
+
+## Intellipaat NumPy Cheatsheet
+
+A cheatsheet covering array creation, indexing, math operations, and more[6].
+
+- **URL**: [https://intellipaat.com/blog/tutorial/python-tutorial/numpy-cheat-sheet/](https://intellipaat.com/blog/tutorial/python-tutorial/numpy-cheat-sheet/)
+- **Sections**:
+  - Basic to Advanced Functions
+  - Array Creation
+  - Array Mathematics
+  - Advanced Operations
+
+## GeeksforGeeks NumPy Cheatsheet
+
+A beginner to advanced cheatsheet covering various aspects of NumPy[7].
+
+- **URL**: [https://www.geeksforgeeks.org/numpy-cheat-sheet/](https://www.geeksforgeeks.org/numpy-cheat-sheet/)
+- **Key Features**:
+  - Array Creation
+  - Array Properties Inspection
+  - File Handling
+  - Array Manipulation
+  - Mathematical Operations
+
+## DataCamp NumPy Cheatsheet
+
+A quick reference for NumPy beginners looking to get started with data analysis[8].
+
+- **URL**: [https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python)
+- **Topics Covered**:
+  - Array Creation
+  - I/O Operations
+  - Array Examination
+  - Array Mathematics
+  - Copying and Sorting Arrays
+  - Element Selection
+  - Shape Manipulation
+
+These cheatsheets provide a comprehensive overview of NumPy functionality, from basic operations to advanced techniques. They serve as quick references for both beginners and experienced users working with numerical computing and data analysis in Python.
+
+Citations:
+[1] https://www.reddit.com/r/Python/comments/repk8q/an_interactive_cheatsheet_for_numpy/
+[2] https://www.dataquest.io/blog/numpy-cheat-sheet/
+[3] https://shecancode.io/blog/numpy-cheat-sheet-for-python/
+[4] https://studyopedia.com/numpy/numpy-cheat-sheet/
+[5] https://web.itu.edu.tr/iguzel/files/Python_Cheat_Sheets.pdf
+[6] https://intellipaat.com/blog/tutorial/python-tutorial/numpy-cheat-sheet/
+[7] https://www.geeksforgeeks.org/numpy-cheat-sheet/
+[8] https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python
 
 Remember to check the official documentation for the most up-to-date and detailed information on NumPy functions and usage.
 
